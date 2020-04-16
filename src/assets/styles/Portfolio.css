@@ -1,0 +1,51 @@
+.portfolio{
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.portfolio h1{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color:#545454;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    font-size: 35px;
+
+  }
+
+ .side-bar {
+  background-color:#efefef;
+  padding: 1%;
+  }
+  .card{
+      padding:1%;
+  }
+  .card img{
+      width: 25%;
+  }
+  .card h6{
+      font-family: 'Roboto', sans-serif;
+      font-weight: 600;
+      color:#a6a6a6;
+
+  }
+  .center-block {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+   }
+.portfolio-item{
+  height: 250px;
+  background:#efefef ;
+}
+
+@media only screen and (max-width: 600px) {
+
+    .portfolio h1{
+     padding-top: 0;  
+    }
+    .card img{
+        width: 17%;
+    }
+ 
+}

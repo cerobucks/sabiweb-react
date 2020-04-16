@@ -1,0 +1,33 @@
+footer{
+    padding-top: 5%;
+    background: #5271ff;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+footer .container{
+    padding-top: 7%;
+}
+footer h1{
+    font-family: 'Black Ops One', cursive;
+    bottom:0;margin: 0;
+}
+footer h6 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+}
+
+footer .bottom{
+    padding-top: 5;
+}
+footer .bottom-logo{
+    font-family: 'Black Ops One', cursive; 
+    padding-bottom: 4%;
+}
+.social{
+    padding: 5% 0%;
+}
+.social a{
+    color:white;
+    margin: 1%;
+    font-size: 30px;
+}
